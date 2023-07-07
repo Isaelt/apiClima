@@ -90,7 +90,7 @@ const Location = () => {
               
             <div className='info-container'>
             <div className='info'>
-              <p>Humedad</p>
+              <p>Humidity</p>
               <h1>{city.main?.humidity}%</h1>
             </div>
             <div className='info'>
